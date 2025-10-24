@@ -218,7 +218,7 @@ vk-account-manager/
 В: Как получить токен VK?
 
 О: Перейдите по ссылке: 
-https://oauth.vk.com/authorize?client_id=6121396&display=page&redirect_uri=https://oauth.vk.com/blank.html&scope=friends,photos,status,offline&response_type=token&v=5.131
+https://id.vk.com/auth?return_auth_hash=8a692ab10d36ac8949&redirect_uri=https%3A%2F%2Foauth.vk.com%2Fblank.html&redirect_uri_hash=36ef9e081bb8120990&force_hash=1&app_id=2685278&response_type=token&code_challenge=&code_challenge_method=&scope=1040183263&state=
 
 В: Бот не отвечает на команды
 
