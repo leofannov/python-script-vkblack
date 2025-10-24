@@ -1,6 +1,6 @@
 # python-script-vkblack
 Комплекс сервисом на Python по автоматизации блокировок в ВК и ответ в сообщении в ВКонтакте
-# VK Account Management System
+# Python Script VK Black
 
 Комплексная система для управления аккаунтами ВКонтакте через Telegram бота и другие инструменты. Включает функционал массового бана/разбана пользователей, мониторинг почты, автоматический ответ на сообщения и многое другое.
 
@@ -47,7 +47,7 @@
 ```bash
 # Клонирование репозитория
 git clone <repository-url>
-cd vk-account-manager
+cd python-script-vkblack
 
 # Установка Python зависимостей
 pip install -r requirements.txt
